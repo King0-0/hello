@@ -1,4 +1,6 @@
 hello java
 Hello java
 
-git commit m "first commit"
+git config --global user.email "King0-0"
+git config --global user.name "King0-0"
+
